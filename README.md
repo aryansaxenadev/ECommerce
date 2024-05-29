@@ -17,7 +17,3 @@ Django: Python web framework for building the backend.
 PayPal SDK: Integrate PayPal's API for payment processing.
 Django REST Framework: Facilitate API development for communication with the frontend.
 Database: Utilize Django's ORM to interact with the database (e.g., PostgreSQL).
-
-Monitoring: Monitor the integration in production. Set up logging and error tracking to identify and resolve issues promptly.
-
-Documentation: Document the integration process, including setup instructions, API endpoints, and any custom logic implemented. Provide documentation for developers who may need to maintain or modify the integration in the future.
